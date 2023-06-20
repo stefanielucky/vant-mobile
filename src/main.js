@@ -3,6 +3,7 @@ import App from './App.vue'
 import store from './store'
 
 Vue.config.productionTip = false
+import 'vant/lib/button/style';
 
 new Vue({
   store,
