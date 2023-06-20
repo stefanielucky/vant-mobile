@@ -7,7 +7,7 @@
 <script>
 import { Uploader } from 'vant';
 export default{
-  name: "UpLoader",
+  name: "UpLoaderView",
   components: {
     Uploader
   },
